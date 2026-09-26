@@ -1,0 +1,6 @@
+{
+  "name": "Quorix - منصة صناعة التطبيقات الذكية",
+  "description": "Quorix - محرك ذكي لتوليد التطبيقات والأكواد البرمجية بدقة فائقة باستخدام نماذج الذكاء الاصطناعي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
